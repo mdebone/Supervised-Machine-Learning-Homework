@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# loan.csv
+LoanStats_2019Q1.csv
+LoanStats_2019Q2.csv
+LoanStats_2019Q3.csv
+LoanStats_2019Q4.csv
+LoanStats2020Q1.csv
